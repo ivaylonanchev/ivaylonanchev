@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **my education at SoftUni with C#**
 
-- 🌱 I’m currently learning **MySQL**
+- 🌱 I’m currently learning **EF Core**
 
 - 📫 How to reach me **ivaylonanchev@gmail.com**
 
